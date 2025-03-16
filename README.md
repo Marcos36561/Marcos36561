@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Olá!
+
+Meu nome é Marcos Ribeiro e sou formado em Ciência da Computação. Tenho experiência em desenvolvimento de software, redes e infraestrutura de TI, além de conhecimentos em banco de dados e automação.
+
+💻 Meu foco é aprimorar minhas habilidades em desenvolvimento web, integração de sistemas e soluções para infraestrutura, sempre buscando criar aplicações eficientes e escaláveis. Já participei de projetos acadêmicos e estou em constante aprendizado para me tornar um desenvolvedor cada vez melhor.
+
+🚀 Gosto de explorar novas tecnologias e desafios! Vamos compartilhar conhecimento?
+
+📫 Meu email: marcosrisouza19@gmail.com
 
 <!--
 **Marcos36561/Marcos36561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
