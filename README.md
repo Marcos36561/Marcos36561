@@ -6,8 +6,11 @@
 
 🛠️ Tecnologias e interesses:
 • Python | Flask | APIs REST
+
 • Bancos de dados (SQL e PostgreSQL)
+
 • Redes e infraestrutura
+
 • Automação e monitoramento de sistemas
 
 📈 Em constante evolução, focado em conquistar minha primeira oportunidade como desenvolvedor e gerar impacto com tecnologia.
