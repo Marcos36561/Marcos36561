@@ -13,6 +13,7 @@
 
 • Automação e monitoramento de sistemas
 
+
 📈 Em constante evolução, focado em conquistar minha primeira oportunidade como desenvolvedor e gerar impacto com tecnologia.
 
 🤝 Aberto a conexões, trocas de conhecimento e oportunidades!
