@@ -1,24 +1,24 @@
-## 👋 Olá!
+👋 Olá! Eu sou o Marcos Ribeiro
 
-Meu nome é Marcos Ribeiro e sou formado em Ciência da Computação. Tenho experiência em desenvolvimento de software, redes e infraestrutura de TI, além de conhecimentos em banco de dados e automação.
+💻 Desenvolvedor em evolução com foco em backend, automação e integração de sistemas. Tenho formação em Ciência da Computação e experiência prática com suporte de TI, redes e infraestrutura — o que me dá uma visão completa do funcionamento de sistemas na prática.
 
-💻 Meu foco é aprimorar minhas habilidades em desenvolvimento web, integração de sistemas e soluções para infraestrutura, sempre buscando criar aplicações eficientes e escaláveis. Já participei de projetos acadêmicos e estou em constante aprendizado para me tornar um desenvolvedor cada vez melhor.
+🚀 Atualmente estou desenvolvendo projetos reais, como monitoramento de links/IP e soluções para automação de processos, buscando sempre performance, confiabilidade e escalabilidade.
 
-🚀 Gosto de explorar novas tecnologias e desafios! Vamos compartilhar conhecimento?
+🛠️ Tecnologias e interesses:
+• Python | Flask | APIs REST
+• Bancos de dados (SQL e NoSQL)
+• Redes e infraestrutura
+• Automação e monitoramento de sistemas
 
-📫 Meu email: marcosrisouza19@gmail.com
+📈 Em constante evolução, focado em conquistar minha primeira oportunidade como desenvolvedor e gerar impacto com tecnologia.
 
-<!--
-**Marcos36561/Marcos36561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 Aberto a conexões, trocas de conhecimento e oportunidades!
 
-Here are some ideas to get you started:
+📫 Contato: [marcosrisouza19@gmail.com](mailto:marcosrisouza19@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
