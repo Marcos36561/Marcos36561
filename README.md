@@ -5,6 +5,7 @@
 🚀 Atualmente estou desenvolvendo projetos reais, como monitoramento de links/IP e soluções para automação de processos, buscando sempre performance, confiabilidade e escalabilidade.
 
 🛠️ Tecnologias e interesses:
+
 • Python | Flask | APIs REST
 
 • Bancos de dados (SQL e PostgreSQL)
@@ -16,9 +17,13 @@
 
 📈 Em constante evolução, focado em conquistar minha primeira oportunidade como desenvolvedor e gerar impacto com tecnologia.
 
+
 🤝 Aberto a conexões, trocas de conhecimento e oportunidades!
 
+
 📫 Contato: [marcosrisouza19@gmail.com](mailto:marcosrisouza19@gmail.com)
+
+
 
 ## 🛠️ Tecnologias
 
